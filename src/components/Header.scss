@@ -1,0 +1,32 @@
+header {
+  width: 100%;
+}
+
+.logo {
+  width: 150px;
+  background-repeat: no-repeat;
+}
+.me-auto {
+  width: 400px;
+  display: flex;
+  font-family: Raleway, sans-serif;
+  margin-left: 200px;
+}
+.header-right {
+  width: 120px;
+  display: flex;
+  justify-content: space-between;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+#menu:hover {
+  color: #6e9c9f;
+  font-size: 17px;
+}
+
+.header-right {
+  width: 300px;
+  margin-left: 100px;
+}

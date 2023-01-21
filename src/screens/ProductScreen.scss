@@ -1,0 +1,53 @@
+.content {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 100px;
+}
+.description {
+  margin-left: -250px;
+  line-height: 30px;
+}
+
+.button {
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+  border: solid 0.5px;
+}
+.price {
+  width: 200px;
+}
+.button:hover {
+  color: black;
+  background-color: #6e9c9f;
+}
+.group-size {
+  width: 180px;
+  display: flex;
+  justify-content: space-between;
+}
+.size {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25px;
+  height: 25px;
+  border: solid;
+}
+.color {
+  border-radius: 20px;
+}
+.brown {
+  background-color: #927876;
+}
+.grey {
+  background-color: #d4d4d4;
+}
+.pink {
+  background-color: #fd9696;
+}
+.orange {
+  background-color: #fdc796;
+}

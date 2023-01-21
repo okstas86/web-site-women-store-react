@@ -1,0 +1,65 @@
+.map {
+  img {
+    width: 800px;
+    height: 400px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+}
+input,
+textarea {
+  box-sizing: border-box;
+}
+
+.list-contact {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.input-box {
+  height: 50px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+/* Стили для input и textarea (поле сообщение) */
+.input-box input,
+.input-box textarea {
+  height: 100%; /* растягиваем на всю высоту контейнера 50px */
+  width: 60%; /* растягиваем на всю ширину */
+  border: none; /* убираем внешние края */
+  border-radius: 5px; /* скругляем края */
+  background: #f1eadc; /* задаем цвет фона */
+  padding: 0 20px; /* отступ справа и слева 20px */
+}
+
+.input-box textarea {
+  resize: none;
+  padding: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.message-box {
+  min-height: 110px;
+}
+
+.button {
+  display: inline-block;
+}
+
+.button-send input[type="button"] {
+  color: #fff;
+  font-size: 18px;
+  background: #6e9c9f;
+  outline: none;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 7px;
+  transition: 0.2s;
+}
+
+.button-send input[type="button"]:hover {
+  background: rgb(65, 65, 82);
+}

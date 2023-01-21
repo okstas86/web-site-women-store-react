@@ -1,0 +1,53 @@
+.about {
+  h1 {
+    margin-top: 50px;
+    margin-left: 150px;
+  }
+}
+.idea {
+  margin: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.idea-img {
+  margin-left: 100px;
+  width: 50%;
+}
+.idea-text {
+  margin-right: 100px;
+  padding-right: 100px;
+  width: 40%;
+  display: block;
+  h6,
+  p {
+    margin: 30px;
+  }
+}
+.magic {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px;
+}
+.magic-img {
+  margin-left: 100px;
+  width: 50%;
+}
+.magic-text {
+  margin-left: 100px;
+
+  width: 40%;
+  display: block;
+  h6,
+  p {
+    margin: 30px;
+  }
+}
+.div-button {
+  margin-bottom: 50px;
+  .button {
+    margin-left: -100px;
+  }
+}
