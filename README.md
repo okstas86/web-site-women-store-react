@@ -16,21 +16,21 @@ You may also see any lint errors in the console.
 
 ### Example
 
-<img align="left"  alt="Home page" width="200px" 
-height='300px' src="./public/img/Home.png" />
-<img align="left" alt="Product" width="200px" 
-height='300px' src="./public/img/product.png" />
-<img align="left" alt="About brand" width="200px" 
-height='300px' src="./public/img/About brand.png" />
-<img align="left" alt="Contacts" width="200px" 
-height='300px' src="./public/img/Contacts.png" />
+<img align="left"  alt="Home page" width="400px" 
+ src="./public/img/Home.png" />
+<img align="left" alt="Product" width="400px" 
+ src="./public/img/product.png" />
+<img align="left" alt="About brand" width="400px" 
+ src="./public/img/About brand.png" />
+<img align="left" alt="Contacts" width="400px" 
+ src="./public/img/Contacts.png" />
 
 
-<img align="left" alt="Cart" width="200px" 
-height='300px' src="./public/img/Cart.png" />
+<img align="left" alt="Cart" width="400px" 
+ src="./public/img/Cart.png" />
 
-<img align="left" alt="Checkout" width="200px" 
-height='300px' src="./public/img/Checkout.png" />
+<img align="left" alt="Checkout" width="400px" 
+' src="./public/img/Checkout.png" />
 
 
 
