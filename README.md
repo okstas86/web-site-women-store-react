@@ -30,7 +30,7 @@ You may also see any lint errors in the console.
  src="./public/img/Cart.png" />
 
 <img align="left" alt="Checkout" width="400px" 
-' src="./public/img/Checkout.png" />
+src="./public/img/Checkout.png" />
 
 
 
